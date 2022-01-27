@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+
+*.npz
+
+datasets/*
+!datasets/.gitkeep 
+
+data/train/*
+!data/train/.gitkeep 
+
+data/test/*
+!data/test/.gitkeep 
